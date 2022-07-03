@@ -28,6 +28,8 @@
 
 <img src='Bank Marketing.png'> </img>
 
+## Berdasarkan transaksi dari bulan januari - desember, bulan mei merupakan bulan yang tertinggi untuk melakukan mencari nasabah sedangkan dibulan desember merupakan bulan yang sedikit sekali melakukan mencari nasabah untuk melakukan deposito dikarenakan bulan tersebut merupakan liburan natal sehingga uangnya dipakai untuk kebutuhan natal
+
 ### Simulation 
 
 <p> Kita Asumsikan Rata - rata call center itu 4 menit: https://financesonline.com/call-center-statistics/ dan minimal deposito Rp 10.000.000:  </p>
