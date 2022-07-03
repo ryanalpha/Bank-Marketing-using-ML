@@ -24,6 +24,8 @@
 
 <img src='loan yes.png'> </img> 
 
+## Berdasarkan data customer tersebut, generasi X merupakan yang melakukan pinjaman, dikarenakan generasi tersebut lebih banyak kebutuhan yang dikeluarkan sehari-hari
+
 ### 2. Transaction Marketing Jan - December 
 
 <img src='Bank Marketing.png'> </img>
