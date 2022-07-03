@@ -1,12 +1,16 @@
 # Bank Marketing Campaign 
 
-## Define Problem 
+## Business Context 
 
-### Saat ini memasarkan produk deposito masih random sehingga perbankan mengalami kehilangan cost terutama 
+### Perbankan saat ini melakukan mencari nasabah untuk melakukan deposito, hal ini bertujuan dengan melakukan deposito tabungan yang disimpan lebih aman dan bunganya terjangkau daripada jika hanya menyimpan dengan tabungan biasa
 
-## Goal 
+## Business Problem 
 
-### Memasarkan produk deposito secara efisien 
+### Saat ini marketing mencari nasabah untuk melakukan deposito masih dilakukan secara satu per satu sehingga dapat menambah waktu dan biaya yang dikeluarkan
+
+## Business Goal 
+
+### Menghemat waktu dan biaya untuk mencari nasabah yang niat untuk melakukan deposito
 
 ## Impact 
 
@@ -41,3 +45,4 @@
 
 <h4> Model Cat Boost merupakan Algoritma ML yang terbaik dimana waktu keseluruhan untuk memanggil customer yang memiliki deposito sebanyak 612 menit 
 
+<p> Dengan melakukan pemodelan ini, marketing dapat melakukan panggilan nasabah keseluruhan hanya dengan waktu 612 menit </p>
